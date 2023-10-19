@@ -24,18 +24,20 @@ https://localhost:7654/login
 
 ![test](https://github.com/sebasporras14/lab-07AREP/blob/master/img/login.png)
 
-Una vez ingresados cualquiera de los usuarios
+Una vez ingresados cualquiera de los usuarios.
 
 username: sebas
 password: 123
 
-esta mandara a la pagina de helloService
+esta mandara a la pagina de helloService.
 
 
 ## Video prueba del despliegue 
 
 
 El video demuestra el despliegue en AWS.
+
+https://youtu.be/nbpkMmUKLLw
 
 
 ## Construido con 
